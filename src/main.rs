@@ -57,7 +57,7 @@ fn view(app: &App, frame: Frame) {
         }
     }
 
-    let thickness:f32 = 3.5;
+    let thickness:f32 = 4.0;
     // 9,6
     draw.line()
             .start(points[0].p)
